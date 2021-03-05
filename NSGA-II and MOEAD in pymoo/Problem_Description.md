@@ -1,9 +1,9 @@
 Trong bài tập BT02 này chúng ta sẽ sử dụng thuật toán NSGA-II và MOEA/D trong thư viện pymoo để giải một số bài toán Tối ưu hóa đa mục tiêu.
 
-Thư viện: https://pymoo.org/
-Link hướng dẫn NSGA-II với pymoo: https://pymoo.org/algorithms/nsga2.html
-Linh hướng dẫn MOEA/D với pymoo: https://pymoo.org/algorithms/moead.html
-Yêu cầu bài nộp:
+Thư viện: https://pymoo.org/ 
+\\Link hướng dẫn NSGA-II với pymoo: https://pymoo.org/algorithms/nsga2.html
+\\Link hướng dẫn MOEA/D với pymoo: https://pymoo.org/algorithms/moead.html
+\\Yêu cầu bài nộp:
 
 Được phép sử dụng thư viện hỗ trợ, tham khảo code hướng dẫn.
 Random seed: sử dụng MSSV của mình.
